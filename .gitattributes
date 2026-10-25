@@ -1,0 +1,15 @@
+# Normalise line endings so the repository behaves the same on Windows, macOS
+# and Linux. CSVs stay byte-identical to what the pipeline writes.
+* text=auto eol=lf
+
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
+*.bat text eol=crlf
+
+*.csv text eol=lf
+*.json text eol=lf
+*.ipynb text eol=lf
+*.gz binary
+*.zip binary
+*.png binary
+*.ico binary
