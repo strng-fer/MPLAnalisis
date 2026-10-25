@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mplid-dataset"
+version = "2.0.0"
+description = "Scraper and analytics dataset for MPL Indonesia (Mobile Legends: Bang Bang Professional League)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "strng-fer" }]
+keywords = ["esports", "mobile-legends", "mpl", "dataset", "scraper", "analytics"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Games/Entertainment",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
+dependencies = [
+    "beautifulsoup4>=4.12",
+    "lxml>=5.0",
+    "requests>=2.31",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "pandas>=2.0", "matplotlib>=3.8"]
+kaggle = ["kaggle>=1.6"]
+
+[project.scripts]
+mplid = "mplid.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["mplid*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+filterwarnings = ["ignore::DeprecationWarning:bs4.*"]

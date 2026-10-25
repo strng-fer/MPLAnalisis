@@ -1,0 +1,85 @@
+﻿season,team_id,player_id,role,roster_status,valid_from,valid_until,source_url
+18,ae,ae:xepher,Coach,active,,,https://id-mpl.com/team/ae
+18,ae,ae:styx,Asst. Coach,active,,,https://id-mpl.com/team/ae
+18,ae,ae:nino,EXP Lane,active,,,https://id-mpl.com/team/ae
+18,ae,ae:alexander,Roam,active,,,https://id-mpl.com/team/ae
+18,ae,ae:dingarai,Gold Lane,active,,,https://id-mpl.com/team/ae
+18,ae,ae:dalvin,Midlane,active,,,https://id-mpl.com/team/ae
+18,ae,ae:halim,Midlane,active,,,https://id-mpl.com/team/ae
+18,ae,ae:reyy,Jungle,active,,,https://id-mpl.com/team/ae
+18,ae,ae:affan,Jungle,active,,,https://id-mpl.com/team/ae
+18,ae,ae:ivann,Roam,active,,,https://id-mpl.com/team/ae
+18,btr,btr:k-dot,Coach,active,,,https://id-mpl.com/team/btr
+18,btr,btr:rubenhood,Asst. Coach,active,,,https://id-mpl.com/team/btr
+18,btr,btr:her,Analyst,active,,,https://id-mpl.com/team/btr
+18,btr,btr:morenooo,Mid Lane,active,,,https://id-mpl.com/team/btr
+18,btr,btr:emann,Gold Lane,active,,,https://id-mpl.com/team/btr
+18,btr,btr:finn,Roam,active,,,https://id-mpl.com/team/btr
+18,btr,btr:nnael,Jungle,active,,,https://id-mpl.com/team/btr
+18,btr,btr:shogun,EXP Lane,active,,,https://id-mpl.com/team/btr
+18,btr,btr:miguel,Gold Lane,active,,,https://id-mpl.com/team/btr
+18,dewa,dewa:coach-right,Coach,active,,,https://id-mpl.com/team/dewa
+18,dewa,dewa:laufeyson,Analyst,active,,,https://id-mpl.com/team/dewa
+18,dewa,dewa:octa,Mid Lane,active,,,https://id-mpl.com/team/dewa
+18,dewa,dewa:qinn,EXP Lane,active,,,https://id-mpl.com/team/dewa
+18,dewa,dewa:maybeee,Gold Lane,active,,,https://id-mpl.com/team/dewa
+18,dewa,dewa:itoshi-kesu,Roam,active,,,https://id-mpl.com/team/dewa
+18,dewa,dewa:rul-good,Roam,active,,,https://id-mpl.com/team/dewa
+18,dewa,dewa:hazle,Jungle,active,,,https://id-mpl.com/team/dewa
+18,dewa,dewa:shanee,Roam,active,,,https://id-mpl.com/team/dewa
+18,evos,evos:aldo,Coach,active,,,https://id-mpl.com/team/evos
+18,evos,evos:samoht,Analyst,active,,,https://id-mpl.com/team/evos
+18,evos,evos:alberttt,Jungle,active,,,https://id-mpl.com/team/evos
+18,evos,evos:erlan,Gold Lane,active,,,https://id-mpl.com/team/evos
+18,evos,evos:vell,EXP Lane,active,,,https://id-mpl.com/team/evos
+18,evos,evos:muezza,Roam,active,,,https://id-mpl.com/team/evos
+18,evos,evos:rendyyy,EXP Lane,active,,,https://id-mpl.com/team/evos
+18,evos,evos:ryzaa,Mid Lane,active,,,https://id-mpl.com/team/evos
+18,evos,evos:egatzy,Roam,active,,,https://id-mpl.com/team/evos
+18,geek,geek:erpang,Coach,active,,,https://id-mpl.com/team/geek
+18,geek,geek:vivy,Asst. Coach,active,,,https://id-mpl.com/team/geek
+18,geek,geek:aboyy,Mid Lane,active,,,https://id-mpl.com/team/geek
+18,geek,geek:nazara,Jungle,active,,,https://id-mpl.com/team/geek
+18,geek,geek:kennzyyskie,Gold Lane,active,,,https://id-mpl.com/team/geek
+18,geek,geek:marcel,EXP Lane,active,,,https://id-mpl.com/team/geek
+18,geek,geek:febriii,EXP Lane,active,,,https://id-mpl.com/team/geek
+18,geek,geek:frenzyy,Roam,active,,,https://id-mpl.com/team/geek
+18,geek,geek:maykidss,Jungle,active,,,https://id-mpl.com/team/geek
+18,navi,navi:ynot,Coach,active,,,https://id-mpl.com/team/navi
+18,navi,navi:jacklee,Asst. Coach,active,,,https://id-mpl.com/team/navi
+18,navi,navi:han,Analyst,active,,,https://id-mpl.com/team/navi
+18,navi,navi:karss,EXP Lane,active,,,https://id-mpl.com/team/navi
+18,navi,navi:andoryuuu,Jungle,active,,,https://id-mpl.com/team/navi
+18,navi,navi:aprho,Roam,active,,,https://id-mpl.com/team/navi
+18,navi,navi:zeonn,Gold Lane,active,,,https://id-mpl.com/team/navi
+18,navi,navi:jiizee,Mid Lane,active,,,https://id-mpl.com/team/navi
+18,navi,navi:febbb,EXP Lane,active,,,https://id-mpl.com/team/navi
+18,navi,navi:joshuaa,Jungle,active,,,https://id-mpl.com/team/navi
+18,onic,onic:cw,Coach,active,,,https://id-mpl.com/team/onic
+18,onic,onic:kiboy,Roam,active,,,https://id-mpl.com/team/onic
+18,onic,onic:sanz,Mid Lane,active,,,https://id-mpl.com/team/onic
+18,onic,onic:kairi,Jungle,active,,,https://id-mpl.com/team/onic
+18,onic,onic:lutpi,EXP Lane,active,,,https://id-mpl.com/team/onic
+18,onic,onic:kelra,Gold Lane,active,,,https://id-mpl.com/team/onic
+18,onic,onic:ssamuel,Roam,active,,,https://id-mpl.com/team/onic
+18,onic,onic:killuaa,Midlane,active,,,https://id-mpl.com/team/onic
+18,rrq,rrq:coach-adi,Coach,active,,,https://id-mpl.com/team/rrq
+18,rrq,rrq:coach-kayleb,Asst. Coach,active,,,https://id-mpl.com/team/rrq
+18,rrq,rrq:hajirin,Mid Lane,active,,,https://id-mpl.com/team/rrq
+18,rrq,rrq:arthur,Gold Lane,active,,,https://id-mpl.com/team/rrq
+18,rrq,rrq:said,Roam,active,,,https://id-mpl.com/team/rrq
+18,rrq,rrq:joshua,EXP Lane,active,,,https://id-mpl.com/team/rrq
+18,rrq,rrq:demonkite,Jungle,active,,,https://id-mpl.com/team/rrq
+18,rrq,rrq:habil,Gold Lane,active,,,https://id-mpl.com/team/rrq
+18,rrq,rrq:clayyy,Mid Lane,active,,,https://id-mpl.com/team/rrq
+18,rrq,rrq:excellent99,Roamer,active,,,https://id-mpl.com/team/rrq
+18,rrq,rrq:faviannn,Jungle,active,,,https://id-mpl.com/team/rrq
+18,tlid,tlid:honjaw,Coach,active,,,https://id-mpl.com/team/tlid
+18,tlid,tlid:pahlevi,Asst. Coach,active,,,https://id-mpl.com/team/tlid
+18,tlid,tlid:facehugger,Analyst,active,,,https://id-mpl.com/team/tlid
+18,tlid,tlid:aran,EXP Lane,active,,,https://id-mpl.com/team/tlid
+18,tlid,tlid:drichel,Midlane,active,,,https://id-mpl.com/team/tlid
+18,tlid,tlid:lyoni,Roam,active,,,https://id-mpl.com/team/tlid
+18,tlid,tlid:keven,Gold Lane,active,,,https://id-mpl.com/team/tlid
+18,tlid,tlid:anaver,Mid Lane,active,,,https://id-mpl.com/team/tlid
+18,tlid,tlid:kevin,Jungle,active,,,https://id-mpl.com/team/tlid

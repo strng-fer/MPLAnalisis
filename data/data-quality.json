@@ -1,0 +1,442 @@
+{
+  "generated_at": "2026-10-25T09:29:27+07:00",
+  "season": 18,
+  "tables": [
+    {
+      "table": "mpl-drafts.csv",
+      "rows": 1740,
+      "columns": [
+        "match_id",
+        "game_no",
+        "season",
+        "stage",
+        "side",
+        "team_id",
+        "player_name",
+        "hero_name",
+        "pick_slot",
+        "source_url",
+        "scraped_at"
+      ],
+      "blank_fields": {},
+      "status": "ok"
+    },
+    {
+      "table": "mpl-game-players.csv",
+      "rows": 1740,
+      "columns": [
+        "match_id",
+        "game_no",
+        "season",
+        "stage",
+        "side",
+        "team_id",
+        "team_name",
+        "player_id",
+        "player_name",
+        "hero_name",
+        "hero_id",
+        "kills",
+        "deaths",
+        "assists",
+        "damage_dealt",
+        "damage_taken",
+        "tower_damage",
+        "gold",
+        "emblem_id",
+        "rune_ids",
+        "item_ids",
+        "source_url",
+        "scraped_at"
+      ],
+      "blank_fields": {
+        "hero_id": 752
+      },
+      "status": "ok"
+    },
+    {
+      "table": "mpl-games.csv",
+      "rows": 174,
+      "columns": [
+        "match_id",
+        "season",
+        "stage",
+        "match_date",
+        "game_no",
+        "game_uid",
+        "duration_seconds",
+        "winner_team_id",
+        "winner_team_name",
+        "winner_kills",
+        "loser_team_id",
+        "loser_team_name",
+        "loser_kills",
+        "source_url",
+        "scraped_at"
+      ],
+      "blank_fields": {},
+      "status": "ok"
+    },
+    {
+      "table": "mpl-head-to-head.csv",
+      "rows": 36,
+      "columns": [
+        "season",
+        "stage",
+        "team_a",
+        "team_a_id",
+        "team_b",
+        "team_b_id",
+        "matches",
+        "team_a_match_wins",
+        "team_b_match_wins",
+        "team_a_game_wins",
+        "team_b_game_wins",
+        "first_match_date",
+        "last_match_date"
+      ],
+      "blank_fields": {},
+      "status": "ok"
+    },
+    {
+      "table": "mpl-hero-matchups.csv",
+      "rows": 2880,
+      "columns": [
+        "season",
+        "stage",
+        "hero",
+        "opponent_hero",
+        "games",
+        "wins",
+        "win_rate"
+      ],
+      "blank_fields": {},
+      "status": "ok"
+    },
+    {
+      "table": "mpl-hero-pools.csv",
+      "rows": 621,
+      "columns": [
+        "season",
+        "team_id",
+        "player_id",
+        "player_name",
+        "lane",
+        "distinct_heroes",
+        "hero_name",
+        "picks",
+        "win_rate",
+        "source_url",
+        "scraped_at"
+      ],
+      "blank_fields": {},
+      "status": "ok"
+    },
+    {
+      "table": "mpl-hero-stats.csv",
+      "rows": 133,
+      "columns": [
+        "season",
+        "hero_name",
+        "picks",
+        "bans",
+        "wins",
+        "win_rate",
+        "source_url",
+        "scraped_at"
+      ],
+      "blank_fields": {},
+      "status": "ok"
+    },
+    {
+      "table": "mpl-hero-synergy.csv",
+      "rows": 1228,
+      "columns": [
+        "season",
+        "stage",
+        "hero_a",
+        "hero_b",
+        "games_together",
+        "wins_together",
+        "win_rate"
+      ],
+      "blank_fields": {},
+      "status": "ok"
+    },
+    {
+      "table": "mpl-match-details.csv",
+      "rows": 72,
+      "columns": [
+        "match_id",
+        "season",
+        "stage",
+        "match_date",
+        "match_time",
+        "round",
+        "team1_id",
+        "team1_name",
+        "team1_score",
+        "team2_id",
+        "team2_name",
+        "team2_score",
+        "winner_team_id",
+        "games_played",
+        "total_duration_seconds",
+        "avg_game_duration_seconds",
+        "source_url",
+        "scraped_at"
+      ],
+      "blank_fields": {},
+      "status": "ok"
+    },
+    {
+      "table": "mpl-mvp.csv",
+      "rows": 8,
+      "columns": [
+        "season",
+        "rank",
+        "points",
+        "player_display",
+        "team_id",
+        "player_id",
+        "player_name",
+        "source_url",
+        "scraped_at"
+      ],
+      "blank_fields": {},
+      "status": "ok"
+    },
+    {
+      "table": "mpl-player-hero-stats.csv",
+      "rows": 623,
+      "columns": [
+        "season",
+        "team_name",
+        "player_name",
+        "hero_name",
+        "games",
+        "wins",
+        "win_rate",
+        "kills",
+        "deaths",
+        "assists",
+        "avg_kills",
+        "avg_deaths",
+        "avg_assists",
+        "kda",
+        "total_gold",
+        "total_damage"
+      ],
+      "blank_fields": {},
+      "status": "ok"
+    },
+    {
+      "table": "mpl-player-pools.csv",
+      "rows": 621,
+      "columns": [
+        "season",
+        "hero_name",
+        "total_picks",
+        "team_id",
+        "player_id",
+        "player_name",
+        "picks",
+        "win_rate",
+        "source_url",
+        "scraped_at"
+      ],
+      "blank_fields": {},
+      "status": "ok"
+    },
+    {
+      "table": "mpl-player-stats.csv",
+      "rows": 66,
+      "columns": [
+        "season",
+        "team_id",
+        "player_id",
+        "player_name",
+        "lane",
+        "games",
+        "kills",
+        "avg_kills",
+        "deaths",
+        "avg_deaths",
+        "assists",
+        "avg_assists",
+        "avg_kda",
+        "kill_participation",
+        "source_url",
+        "scraped_at"
+      ],
+      "blank_fields": {},
+      "status": "ok"
+    },
+    {
+      "table": "mpl-players.csv",
+      "rows": 91,
+      "columns": [
+        "player_id",
+        "player_name",
+        "in_game_name",
+        "current_team_id",
+        "role",
+        "nationality",
+        "profile_url",
+        "season",
+        "scraped_at"
+      ],
+      "blank_fields": {
+        "role": 4,
+        "nationality": 91,
+        "profile_url": 91
+      },
+      "status": "ok"
+    },
+    {
+      "table": "mpl-rosters.csv",
+      "rows": 84,
+      "columns": [
+        "season",
+        "team_id",
+        "player_id",
+        "role",
+        "roster_status",
+        "valid_from",
+        "valid_until",
+        "source_url"
+      ],
+      "blank_fields": {
+        "valid_from": 84,
+        "valid_until": 84
+      },
+      "status": "ok"
+    },
+    {
+      "table": "mpl-schedule.csv",
+      "rows": 80,
+      "columns": [
+        "season",
+        "stage",
+        "match_id",
+        "match_date",
+        "match_time",
+        "round",
+        "match_status",
+        "team1_id",
+        "team1_name",
+        "team2_id",
+        "team2_name",
+        "team1_score",
+        "team2_score",
+        "winner_team_id",
+        "match_url",
+        "scraped_at"
+      ],
+      "blank_fields": {
+        "team1_id": 4,
+        "team2_id": 6,
+        "team1_score": 8,
+        "team2_score": 8,
+        "winner_team_id": 8,
+        "match_url": 8
+      },
+      "status": "ok"
+    },
+    {
+      "table": "mpl-seasons.csv",
+      "rows": 1,
+      "columns": [
+        "season",
+        "season_label",
+        "playoffs_bracket_url",
+        "source_url",
+        "scraped_at"
+      ],
+      "blank_fields": {},
+      "status": "ok"
+    },
+    {
+      "table": "mpl-standings.csv",
+      "rows": 9,
+      "columns": [
+        "season",
+        "stage",
+        "team_id",
+        "team_name",
+        "rank",
+        "matches_played",
+        "wins",
+        "losses",
+        "game_wins",
+        "game_losses",
+        "game_difference",
+        "points",
+        "win_rate",
+        "source_url",
+        "scraped_at"
+      ],
+      "blank_fields": {},
+      "status": "ok"
+    },
+    {
+      "table": "mpl-team-form.csv",
+      "rows": 80,
+      "columns": [
+        "season",
+        "stage",
+        "week",
+        "team_name",
+        "team_id",
+        "matches",
+        "match_wins",
+        "match_losses",
+        "game_wins",
+        "game_losses",
+        "game_difference",
+        "first_match_date",
+        "last_match_date"
+      ],
+      "blank_fields": {},
+      "status": "ok"
+    },
+    {
+      "table": "mpl-team-stats.csv",
+      "rows": 9,
+      "columns": [
+        "season",
+        "team_id",
+        "team_name",
+        "kills",
+        "deaths",
+        "assists",
+        "gold",
+        "damage",
+        "lord",
+        "tortoise",
+        "tower",
+        "source_url",
+        "scraped_at"
+      ],
+      "blank_fields": {},
+      "status": "ok"
+    },
+    {
+      "table": "mpl-teams.csv",
+      "rows": 9,
+      "columns": [
+        "season",
+        "team_id",
+        "team_name",
+        "team_short_name",
+        "team_logo_url",
+        "team_profile_url",
+        "roster_reference",
+        "scraped_at"
+      ],
+      "blank_fields": {},
+      "status": "ok"
+    }
+  ],
+  "warnings": []
+}

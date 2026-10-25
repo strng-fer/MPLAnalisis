@@ -1,0 +1,41 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Pipeline runtime artifacts (regenerated on every run)
+cache/
+raw/
+legacy/
+*.tmp
+
+# Local credentials and secrets
+.env
+.kaggle/
+kaggle.json
+*.kaggle.json
+
+# Editor and OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Scratch output
+dist/
+build/
+*.zip
+
+# Kaggle staging
+kaggle/_staging/
+notebooks/_smoke.py
+

@@ -1,0 +1,81 @@
+﻿season,stage,match_id,match_date,match_time,round,match_status,team1_id,team1_name,team2_id,team2_name,team1_score,team2_score,winner_team_id,match_url,scraped_at
+18,Regular Season,1036,2026-08-14,15:00,Week 1,completed,evos,EVOS,rrq,RRQ,2,0,evos,https://id-mpl.com/match-detail/1036,2026-10-25T09:29:27+07:00
+18,Regular Season,1037,2026-08-14,18:00,Week 1,completed,navi,NAVI,ae,AE,0,2,ae,https://id-mpl.com/match-detail/1037,2026-10-25T09:29:27+07:00
+18,Regular Season,1038,2026-08-15,14:00,Week 1,completed,tlid,TLID,geek,GEEK,2,1,tlid,https://id-mpl.com/match-detail/1038,2026-10-25T09:29:27+07:00
+18,Regular Season,1039,2026-08-15,17:00,Week 1,completed,dewa,DEWA,rrq,RRQ,1,2,rrq,https://id-mpl.com/match-detail/1039,2026-10-25T09:29:27+07:00
+18,Regular Season,1040,2026-08-15,20:00,Week 1,completed,evos,EVOS,navi,NAVI,1,2,navi,https://id-mpl.com/match-detail/1040,2026-10-25T09:29:27+07:00
+18,Regular Season,1041,2026-08-16,14:00,Week 1,completed,tlid,TLID,dewa,DEWA,2,0,tlid,https://id-mpl.com/match-detail/1041,2026-10-25T09:29:27+07:00
+18,Regular Season,1042,2026-08-16,17:00,Week 1,completed,btr,BTR,geek,GEEK,2,1,btr,https://id-mpl.com/match-detail/1042,2026-10-25T09:29:27+07:00
+18,Regular Season,1043,2026-08-16,20:00,Week 1,completed,ae,AE,onic,ONIC,0,2,onic,https://id-mpl.com/match-detail/1043,2026-10-25T09:29:27+07:00
+18,Regular Season,1044,2026-08-21,15:00,Week 2,completed,tlid,TLID,navi,NAVI,0,2,navi,https://id-mpl.com/match-detail/1044,2026-10-25T09:29:27+07:00
+18,Regular Season,1045,2026-08-21,18:00,Week 2,completed,btr,BTR,dewa,DEWA,2,0,btr,https://id-mpl.com/match-detail/1045,2026-10-25T09:29:27+07:00
+18,Regular Season,1046,2026-08-22,14:00,Week 2,completed,tlid,TLID,evos,EVOS,2,0,tlid,https://id-mpl.com/match-detail/1046,2026-10-25T09:29:27+07:00
+18,Regular Season,1047,2026-08-22,17:00,Week 2,completed,navi,NAVI,geek,GEEK,2,1,navi,https://id-mpl.com/match-detail/1047,2026-10-25T09:29:27+07:00
+18,Regular Season,1048,2026-08-22,20:00,Week 2,completed,onic,ONIC,rrq,RRQ,2,0,onic,https://id-mpl.com/match-detail/1048,2026-10-25T09:29:27+07:00
+18,Regular Season,1049,2026-08-23,14:00,Week 2,completed,dewa,DEWA,ae,AE,0,2,ae,https://id-mpl.com/match-detail/1049,2026-10-25T09:29:27+07:00
+18,Regular Season,1050,2026-08-23,17:00,Week 2,completed,onic,ONIC,btr,BTR,1,2,btr,https://id-mpl.com/match-detail/1050,2026-10-25T09:29:27+07:00
+18,Regular Season,1051,2026-08-23,20:00,Week 2,completed,geek,GEEK,evos,EVOS,0,2,evos,https://id-mpl.com/match-detail/1051,2026-10-25T09:29:27+07:00
+18,Regular Season,1052,2026-08-28,15:00,Week 3,completed,btr,BTR,navi,NAVI,2,0,btr,https://id-mpl.com/match-detail/1052,2026-10-25T09:29:27+07:00
+18,Regular Season,1053,2026-08-28,18:00,Week 3,completed,dewa,DEWA,geek,GEEK,2,0,dewa,https://id-mpl.com/match-detail/1053,2026-10-25T09:29:27+07:00
+18,Regular Season,1054,2026-08-29,14:00,Week 3,completed,tlid,TLID,onic,ONIC,2,1,tlid,https://id-mpl.com/match-detail/1054,2026-10-25T09:29:27+07:00
+18,Regular Season,1055,2026-08-29,17:00,Week 3,completed,ae,AE,evos,EVOS,2,0,ae,https://id-mpl.com/match-detail/1055,2026-10-25T09:29:27+07:00
+18,Regular Season,1056,2026-08-29,20:00,Week 3,completed,rrq,RRQ,btr,BTR,1,2,btr,https://id-mpl.com/match-detail/1056,2026-10-25T09:29:27+07:00
+18,Regular Season,1057,2026-08-30,14:00,Week 3,completed,navi,NAVI,onic,ONIC,2,0,navi,https://id-mpl.com/match-detail/1057,2026-10-25T09:29:27+07:00
+18,Regular Season,1058,2026-08-30,17:00,Week 3,completed,geek,GEEK,rrq,RRQ,0,2,rrq,https://id-mpl.com/match-detail/1058,2026-10-25T09:29:27+07:00
+18,Regular Season,1059,2026-08-30,20:00,Week 3,completed,tlid,TLID,ae,AE,2,1,tlid,https://id-mpl.com/match-detail/1059,2026-10-25T09:29:27+07:00
+18,Regular Season,1060,2026-09-04,15:00,Week 4,completed,navi,NAVI,dewa,DEWA,2,0,navi,https://id-mpl.com/match-detail/1060,2026-10-25T09:29:27+07:00
+18,Regular Season,1061,2026-09-04,18:00,Week 4,completed,tlid,TLID,rrq,RRQ,2,0,tlid,https://id-mpl.com/match-detail/1061,2026-10-25T09:29:27+07:00
+18,Regular Season,1062,2026-09-05,14:00,Week 4,completed,dewa,DEWA,onic,ONIC,2,1,dewa,https://id-mpl.com/match-detail/1062,2026-10-25T09:29:27+07:00
+18,Regular Season,1063,2026-09-05,17:00,Week 4,completed,evos,EVOS,btr,BTR,2,1,evos,https://id-mpl.com/match-detail/1063,2026-10-25T09:29:27+07:00
+18,Regular Season,1064,2026-09-05,20:00,Week 4,completed,ae,AE,geek,GEEK,2,0,ae,https://id-mpl.com/match-detail/1064,2026-10-25T09:29:27+07:00
+18,Regular Season,1065,2026-09-06,14:00,Week 4,completed,rrq,RRQ,navi,NAVI,0,2,navi,https://id-mpl.com/match-detail/1065,2026-10-25T09:29:27+07:00
+18,Regular Season,1066,2026-09-06,17:00,Week 4,completed,onic,ONIC,evos,EVOS,2,0,onic,https://id-mpl.com/match-detail/1066,2026-10-25T09:29:27+07:00
+18,Regular Season,1067,2026-09-06,20:00,Week 4,completed,btr,BTR,ae,AE,0,2,ae,https://id-mpl.com/match-detail/1067,2026-10-25T09:29:27+07:00
+18,Regular Season,1069,2026-09-11,18:00,Week 5,completed,geek,GEEK,onic,ONIC,2,1,geek,https://id-mpl.com/match-detail/1069,2026-10-25T09:29:27+07:00
+18,Regular Season,1070,2026-09-12,14:00,Week 5,completed,tlid,TLID,btr,BTR,2,0,tlid,https://id-mpl.com/match-detail/1070,2026-10-25T09:29:27+07:00
+18,Regular Season,1071,2026-09-12,17:00,Week 5,completed,ae,AE,rrq,RRQ,2,0,ae,https://id-mpl.com/match-detail/1071,2026-10-25T09:29:27+07:00
+18,Regular Season,1072,2026-09-12,20:00,Week 5,completed,navi,NAVI,evos,EVOS,2,0,navi,https://id-mpl.com/match-detail/1072,2026-10-25T09:29:27+07:00
+18,Regular Season,1073,2026-09-13,14:00,Week 5,completed,geek,GEEK,tlid,TLID,0,2,tlid,https://id-mpl.com/match-detail/1073,2026-10-25T09:29:27+07:00
+18,Regular Season,1074,2026-09-13,17:00,Week 5,completed,onic,ONIC,ae,AE,0,2,ae,https://id-mpl.com/match-detail/1074,2026-10-25T09:29:27+07:00
+18,Regular Season,1076,2026-09-18,14:00,Week 6,completed,onic,ONIC,geek,GEEK,0,2,geek,https://id-mpl.com/match-detail/1076,2026-10-25T09:29:27+07:00
+18,Regular Season,1077,2026-09-18,17:00,Week 6,completed,dewa,DEWA,evos,EVOS,0,2,evos,https://id-mpl.com/match-detail/1077,2026-10-25T09:29:27+07:00
+18,Regular Season,1075,2026-09-18,20:00,Week 6,completed,rrq,RRQ,dewa,DEWA,1,2,dewa,https://id-mpl.com/match-detail/1075,2026-10-25T09:29:27+07:00
+18,Regular Season,1078,2026-09-19,14:00,Week 6,completed,geek,GEEK,navi,NAVI,0,2,navi,https://id-mpl.com/match-detail/1078,2026-10-25T09:29:27+07:00
+18,Regular Season,1079,2026-09-19,17:00,Week 6,completed,rrq,RRQ,ae,AE,1,2,ae,https://id-mpl.com/match-detail/1079,2026-10-25T09:29:27+07:00
+18,Regular Season,1080,2026-09-19,20:00,Week 6,completed,btr,BTR,tlid,TLID,0,2,tlid,https://id-mpl.com/match-detail/1080,2026-10-25T09:29:27+07:00
+18,Regular Season,1081,2026-09-20,14:00,Week 6,completed,ae,AE,dewa,DEWA,0,2,dewa,https://id-mpl.com/match-detail/1081,2026-10-25T09:29:27+07:00
+18,Regular Season,1082,2026-09-20,17:00,Week 6,completed,btr,BTR,onic,ONIC,0,2,onic,https://id-mpl.com/match-detail/1082,2026-10-25T09:29:27+07:00
+18,Regular Season,1083,2026-09-20,20:00,Week 6,completed,evos,EVOS,tlid,TLID,2,1,evos,https://id-mpl.com/match-detail/1083,2026-10-25T09:29:27+07:00
+18,Regular Season,1084,2026-10-02,15:00,Week 7,completed,geek,GEEK,btr,BTR,1,2,btr,https://id-mpl.com/match-detail/1084,2026-10-25T09:29:27+07:00
+18,Regular Season,1085,2026-10-02,18:00,Week 7,completed,dewa,DEWA,tlid,TLID,2,1,dewa,https://id-mpl.com/match-detail/1085,2026-10-25T09:29:27+07:00
+18,Regular Season,1086,2026-10-03,14:00,Week 7,completed,ae,AE,navi,NAVI,1,2,navi,https://id-mpl.com/match-detail/1086,2026-10-25T09:29:27+07:00
+18,Regular Season,1087,2026-10-03,17:00,Week 7,completed,btr,BTR,rrq,RRQ,2,1,btr,https://id-mpl.com/match-detail/1087,2026-10-25T09:29:27+07:00
+18,Regular Season,1088,2026-10-03,20:00,Week 7,completed,geek,GEEK,dewa,DEWA,2,1,geek,https://id-mpl.com/match-detail/1088,2026-10-25T09:29:27+07:00
+18,Regular Season,1089,2026-10-04,14:00,Week 7,completed,ae,AE,tlid,TLID,0,2,tlid,https://id-mpl.com/match-detail/1089,2026-10-25T09:29:27+07:00
+18,Regular Season,1090,2026-10-04,17:00,Week 7,completed,rrq,RRQ,evos,EVOS,2,1,rrq,https://id-mpl.com/match-detail/1090,2026-10-25T09:29:27+07:00
+18,Regular Season,1091,2026-10-04,20:00,Week 7,completed,onic,ONIC,navi,NAVI,2,1,onic,https://id-mpl.com/match-detail/1091,2026-10-25T09:29:27+07:00
+18,Regular Season,1068,2026-10-08,14:00,Week 8,completed,evos,EVOS,dewa,DEWA,2,1,evos,https://id-mpl.com/match-detail/1068,2026-10-25T09:29:27+07:00
+18,Regular Season,1092,2026-10-08,17:00,Week 8,completed,ae,AE,btr,BTR,2,0,ae,https://id-mpl.com/match-detail/1092,2026-10-25T09:29:27+07:00
+18,Regular Season,1093,2026-10-08,20:00,Week 8,completed,navi,NAVI,tlid,TLID,2,0,navi,https://id-mpl.com/match-detail/1093,2026-10-25T09:29:27+07:00
+18,Regular Season,1094,2026-10-09,14:00,Week 8,completed,evos,EVOS,onic,ONIC,2,1,evos,https://id-mpl.com/match-detail/1094,2026-10-25T09:29:27+07:00
+18,Regular Season,1095,2026-10-09,17:00,Week 8,completed,rrq,RRQ,tlid,TLID,0,2,tlid,https://id-mpl.com/match-detail/1095,2026-10-25T09:29:27+07:00
+18,Regular Season,1096,2026-10-09,20:00,Week 8,completed,dewa,DEWA,navi,NAVI,0,2,navi,https://id-mpl.com/match-detail/1096,2026-10-25T09:29:27+07:00
+18,Regular Season,1097,2026-10-11,14:00,Week 8,completed,evos,EVOS,geek,GEEK,0,2,geek,https://id-mpl.com/match-detail/1097,2026-10-25T09:29:27+07:00
+18,Regular Season,1098,2026-10-11,17:00,Week 8,completed,rrq,RRQ,onic,ONIC,1,2,onic,https://id-mpl.com/match-detail/1098,2026-10-25T09:29:27+07:00
+18,Regular Season,1099,2026-10-11,20:00,Week 8,completed,dewa,DEWA,btr,BTR,0,2,btr,https://id-mpl.com/match-detail/1099,2026-10-25T09:29:27+07:00
+18,Regular Season,1100,2026-10-16,15:00,Week 9,completed,navi,NAVI,rrq,RRQ,2,1,navi,https://id-mpl.com/match-detail/1100,2026-10-25T09:29:27+07:00
+18,Regular Season,1101,2026-10-16,18:00,Week 9,completed,geek,GEEK,ae,AE,0,2,ae,https://id-mpl.com/match-detail/1101,2026-10-25T09:29:27+07:00
+18,Regular Season,1102,2026-10-17,14:00,Week 9,completed,onic,ONIC,dewa,DEWA,2,1,onic,https://id-mpl.com/match-detail/1102,2026-10-25T09:29:27+07:00
+18,Regular Season,1103,2026-10-17,17:00,Week 9,completed,btr,BTR,evos,EVOS,2,1,btr,https://id-mpl.com/match-detail/1103,2026-10-25T09:29:27+07:00
+18,Regular Season,1104,2026-10-17,20:00,Week 9,completed,rrq,RRQ,geek,GEEK,2,1,rrq,https://id-mpl.com/match-detail/1104,2026-10-25T09:29:27+07:00
+18,Regular Season,1105,2026-10-18,14:00,Week 9,completed,evos,EVOS,ae,AE,2,1,evos,https://id-mpl.com/match-detail/1105,2026-10-25T09:29:27+07:00
+18,Regular Season,1106,2026-10-18,17:00,Week 9,completed,navi,NAVI,btr,BTR,0,2,btr,https://id-mpl.com/match-detail/1106,2026-10-25T09:29:27+07:00
+18,Regular Season,1107,2026-10-18,20:00,Week 9,completed,onic,ONIC,tlid,TLID,0,2,tlid,https://id-mpl.com/match-detail/1107,2026-10-25T09:29:27+07:00
+18,Playoffs,18-pl-01,2026-11-04,13:00,Round 1 Match 1,scheduled,ae,AE,onic,ONIC,,,,,2026-10-25T09:29:27+07:00
+18,Playoffs,18-pl-02,2026-11-04,18:00,Round 1 Match 2,scheduled,btr,BTR,evos,EVOS,,,,,2026-10-25T09:29:27+07:00
+18,Playoffs,18-pl-03,2026-11-05,13:00,Round 2 Match 1,scheduled,navi,NAVI,,TBD,,,,,2026-10-25T09:29:27+07:00
+18,Playoffs,18-pl-04,2026-11-05,18:00,Round 2 Match 2,scheduled,tlid,TLID,,TBD,,,,,2026-10-25T09:29:27+07:00
+18,Playoffs,18-pl-05,2026-11-06,13:00,Lower Bracket Semi Finals,scheduled,,TBD,,TBD,,,,,2026-10-25T09:29:27+07:00
+18,Playoffs,18-pl-06,2026-11-06,18:00,Upper Bracket Finals,scheduled,,TBD,,TBD,,,,,2026-10-25T09:29:27+07:00
+18,Playoffs,18-pl-07,2026-11-07,16:00,Lower Bracket Finals,scheduled,,TBD,,TBD,,,,,2026-10-25T09:29:27+07:00
+18,Playoffs,18-pl-08,2026-11-08,16:00,Grand Finals,scheduled,,TBD,,TBD,,,,,2026-10-25T09:29:27+07:00

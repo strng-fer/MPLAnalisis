@@ -1,0 +1,10 @@
+﻿season,stage,team_id,team_name,rank,matches_played,wins,losses,game_wins,game_losses,game_difference,points,win_rate,source_url,scraped_at
+18,Regular Season,tlid,TEAM LIQUID ID,1,16,12,4,26,11,15,12,0.75,https://id-mpl.com/home,2026-10-25T09:29:27+07:00
+18,Regular Season,navi,NAVI,2,16,12,4,25,12,13,12,0.75,https://id-mpl.com/home,2026-10-25T09:29:27+07:00
+18,Regular Season,ae,ALTER EGO ESPORTS,3,16,10,6,23,13,10,10,0.625,https://id-mpl.com/home,2026-10-25T09:29:27+07:00
+18,Regular Season,btr,BIGETRON BY VIT,4,16,10,6,21,18,3,10,0.625,https://id-mpl.com/home,2026-10-25T09:29:27+07:00
+18,Regular Season,evos,EVOS,5,16,8,8,19,21,-2,8,0.5,https://id-mpl.com/home,2026-10-25T09:29:27+07:00
+18,Regular Season,onic,ONIC,6,16,7,9,19,21,-2,7,0.4375,https://id-mpl.com/home,2026-10-25T09:29:27+07:00
+18,Regular Season,dewa,DEWA UNITED,7,16,5,11,14,25,-11,5,0.3125,https://id-mpl.com/home,2026-10-25T09:29:27+07:00
+18,Regular Season,rrq,RRQ HOSHI,8,16,4,12,14,27,-13,4,0.25,https://id-mpl.com/home,2026-10-25T09:29:27+07:00
+18,Regular Season,geek,GEEK FAM,9,16,4,12,13,26,-13,4,0.25,https://id-mpl.com/home,2026-10-25T09:29:27+07:00

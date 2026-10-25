@@ -1,0 +1,114 @@
+{
+  "generated_at": "2026-10-25T09:29:27+07:00",
+  "generator": "mplid-dataset 2.0.0",
+  "source": "https://id-mpl.com",
+  "season": 18,
+  "duration_seconds": 12.8,
+  "fetch": {
+    "http": 0,
+    "cache": 87,
+    "obscura": 0,
+    "bytes": 0
+  },
+  "match_details_parsed": 72,
+  "games_parsed": 174,
+  "player_game_rows": 1740,
+  "tables": {
+    "mpl-schedule.csv": {
+      "rows": 80,
+      "added": 0,
+      "updated": 80
+    },
+    "mpl-teams.csv": {
+      "rows": 9,
+      "added": 0,
+      "updated": 9
+    },
+    "mpl-standings.csv": {
+      "rows": 9,
+      "added": 0,
+      "updated": 9
+    },
+    "mpl-players.csv": {
+      "rows": 91,
+      "added": 0,
+      "updated": 91
+    },
+    "mpl-rosters.csv": {
+      "rows": 84,
+      "added": 0,
+      "updated": 0
+    },
+    "mpl-match-details.csv": {
+      "rows": 72,
+      "added": 0,
+      "updated": 72
+    },
+    "mpl-games.csv": {
+      "rows": 174,
+      "added": 0,
+      "updated": 174
+    },
+    "mpl-game-players.csv": {
+      "rows": 1740,
+      "added": 0,
+      "updated": 1740
+    },
+    "mpl-drafts.csv": {
+      "rows": 1740,
+      "added": 0,
+      "updated": 1740
+    },
+    "mpl-team-stats.csv": {
+      "rows": 9,
+      "added": 0,
+      "updated": 9
+    },
+    "mpl-player-stats.csv": {
+      "rows": 66,
+      "added": 0,
+      "updated": 66
+    },
+    "mpl-hero-stats.csv": {
+      "rows": 133,
+      "added": 0,
+      "updated": 133
+    },
+    "mpl-hero-pools.csv": {
+      "rows": 621,
+      "added": 0,
+      "updated": 621
+    },
+    "mpl-player-pools.csv": {
+      "rows": 621,
+      "added": 0,
+      "updated": 621
+    },
+    "mpl-mvp.csv": {
+      "rows": 8,
+      "added": 0,
+      "updated": 8
+    },
+    "mpl-seasons.csv": {
+      "rows": 1,
+      "added": 0,
+      "updated": 1
+    },
+    "mpl-hero-synergy.csv": {
+      "rows": 1228
+    },
+    "mpl-hero-matchups.csv": {
+      "rows": 2880
+    },
+    "mpl-player-hero-stats.csv": {
+      "rows": 623
+    },
+    "mpl-head-to-head.csv": {
+      "rows": 36
+    },
+    "mpl-team-form.csv": {
+      "rows": 80
+    }
+  },
+  "warnings": []
+}

@@ -1,0 +1,17 @@
+{
+  "title": "MPL Indonesia Season 18 — Esports Match & Draft Dataset",
+  "subtitle": "72 matches, 174 games, 1740 player-game rows with drafts, hero pools and team stats",
+  "description": "MPL Indonesia (Mobile Legends: Bang Bang Professional League) Season 18, scraped from the official league site id-mpl.com.\n\n**Contents**\n\n- 72 completed matches and 8 scheduled playoff slots with dates, times, rounds and series scores\n- 174 individual games with duration, winner, and team kills\n- 1,740 player-game rows: hero, K/D/A, damage dealt, damage taken, tower damage, gold, emblem, runes, items\n- 1,740 draft picks across 91 heroes, with team and side attribution\n- Season aggregates: team totals, player totals, hero pick/ban/win rates, hero pools, player pools, MVP standings\n- Derived analytics: hero pair synergy, hero-vs-hero matchups, head-to-head series records, weekly team form\n\n**Sanity checks that hold**\n\n- hero picks = hero-pool picks = player-pool picks = player-game rows = 1,740\n- standings wins = losses, net game difference sums to zero\n- every completed match has a detail row, every game has exactly 10 players\n- no dangling player or team ids across tables\n\n**Known gaps** (source does not publish them)\n\n- per-game bans; only season ban totals per hero exist\n- player nationality, profile pages, contract dates\n- historical seasons (the site serves only the live season)\n- playoff standings as rows (published as an image)\n\n**Licence**\n\nCode MIT, data CC BY 4.0. Derived from content published on https://id-mpl.com. Unofficial; not affiliated with Moonton or MPL.",
+  "id": "strng-fer/mpl-indonesia-s18",
+  "licenses": [{ "name": "CC-BY-4.0" }],
+  "keywords": [
+    "esports",
+    "mobile legends",
+    "mpl",
+    "moba",
+    "gaming",
+    "sports analytics",
+    "indonesia",
+    "draft analysis"
+  ]
+}
