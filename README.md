@@ -243,10 +243,12 @@ See [kaggle/README.md](kaggle/README.md). In short:
 
 ```bash
 python kaggle/publish.py --check     # validate metadata and table inventory
+python kaggle/publish.py --zip       # dist/mpl-indonesia-s18.zip
 python kaggle/publish.py --upload    # create or version the Kaggle dataset
 ```
 
 Requires `~/.kaggle/kaggle.json` or `KAGGLE_USERNAME` / `KAGGLE_KEY`.
+Step-by-step instructions for both GitHub and Kaggle: [docs/PUBLISHING.md](docs/PUBLISHING.md).
 
 ## Licence and attribution
 
