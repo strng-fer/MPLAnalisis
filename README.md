@@ -48,7 +48,7 @@ Everything is keyed consistently (`match_id`, `game_no`, `team_id`, `player_id`,
 ### Use the data only
 
 ```bash
-git clone https://github.com/<your-user>/MPLAnalisis.git
+git clone https://github.com/strng-fer/MPLAnalisis.git
 cd MPLAnalisis
 python -c "import pandas as pd; print(pd.read_csv('data/mpl-game-players.csv').head())"
 ```
@@ -263,5 +263,5 @@ If you use this dataset, cite it as:
 
 ```
 MPL Indonesia Season 18 Dataset (2026).
-https://github.com/<your-user>/MPLAnalisis
+https://github.com/strng-fer/MPLAnalisis
 ```
